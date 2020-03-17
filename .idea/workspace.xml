@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffc8c3a8-7a8a-4f89-a61e-7be6108723aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java\company_project\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="C:\Users\sheen\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VIic3sHqohIvmxBQUj7SeLfNQP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../company_project/miui_ad_game_attribution_service" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.岛屿数量">
+    <configuration name="岛屿数量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.map.岛屿数量" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长上升子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.最长上升子序列" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长数对链" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.最长数对链" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="岛屿的最大面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.map.岛屿的最大面积" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Z字形变换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.Z字形变换" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="通配符匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.通配符匹配" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="编辑距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.编辑距离" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分发糖果" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.greedyAlgorithm.分发糖果" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.greedyAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="在排序数组中查找元素的第一个和最后一个位置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.binarySearch.在排序数组中查找元素的第一个和最后一个位置" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.binarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串转换整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.字符串转换整数" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="寻找两个有序数组的中位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.math.寻找两个有序数组的中位数" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="寻找两个有序数组的中位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.math.寻找两个有序数组的中位数" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最大相乘数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.number.最大相乘数" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.number.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.买卖股票的最佳时机" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="两数相除" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.bitOperation.两数相除" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.bitOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串转换整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.字符串转换整数" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="单词拆分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.单词拆分" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串转换整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.字符串转换整数" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最大矩形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.最大矩形" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Z字形变换" />
+      <item itemvalue="Application.最长上升子序列" />
+      <item itemvalue="Application.最长数对链" />
+      <item itemvalue="Application.岛屿的最大面积" />
+      <item itemvalue="Application.岛屿数量" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.岛屿数量" />
+        <item itemvalue="Application.岛屿的最大面积" />
+        <item itemvalue="Application.最长数对链" />
+        <item itemvalue="Application.最长上升子序列" />
+        <item itemvalue="Application.Z字形变换" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffc8c3a8-7a8a-4f89-a61e-7be6108723aa" name="Default Changelist" comment="" />
+      <created>1576947087969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576947087969</updated>
+      <workItem from="1576947105821" duration="12999000" />
+      <workItem from="1577521623474" duration="17994000" />
+      <workItem from="1578114616570" duration="5000" />
+      <workItem from="1578114674961" duration="1497000" />
+      <workItem from="1578236352285" duration="9088000" />
+      <workItem from="1578748866062" duration="9000" />
+      <workItem from="1578748916350" duration="307000" />
+      <workItem from="1578749261293" duration="29656000" />
+      <workItem from="1579334312021" duration="582000" />
+      <workItem from="1579335348595" duration="1224000" />
+      <workItem from="1579362673310" duration="6996000" />
+      <workItem from="1580637038586" duration="1576000" />
+      <workItem from="1580645039749" duration="685000" />
+      <workItem from="1580650163442" duration="917000" />
+      <workItem from="1580651106952" duration="85000" />
+      <workItem from="1580651210706" duration="659000" />
+      <workItem from="1581324426613" duration="138000" />
+      <workItem from="1581414595141" duration="74000" />
+      <workItem from="1581750167215" duration="23133000" />
+      <workItem from="1581858289027" duration="10794000" />
+      <workItem from="1581908181331" duration="67000" />
+      <workItem from="1582362170333" duration="19769000" />
+      <workItem from="1582794307683" duration="2687000" />
+      <workItem from="1583562815363" duration="29986000" />
+      <workItem from="1584167425751" duration="1682000" />
+      <workItem from="1584169195230" duration="6652000" />
+      <workItem from="1584176553229" duration="599000" />
+      <workItem from="1584179668395" duration="15422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2503" y="198" key="#Live_Templates" timestamp="1583570871810">
+      <screen x="1982" y="0" width="1858" height="1080" />
+    </state>
+    <state x="2503" y="198" key="#Live_Templates/74.0.1462.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1583570871810" />
+    <state x="691" y="258" key="FileChooserDialogImpl" timestamp="1580645066759">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="691" y="258" key="FileChooserDialogImpl/74.0.1462.864@74.0.1462.864" timestamp="1580645066759" />
+    <state width="1419" height="276" key="GridCell.Tab.0.bottom" timestamp="1584267532226">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581781653370" />
+    <state width="1815" height="276" key="GridCell.Tab.0.bottom/74.0.1462.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1584175210277" />
+    <state width="1419" height="276" key="GridCell.Tab.0.bottom/74.0.1462.864/1982.0.1858.1080@74.0.1462.864" timestamp="1584267532226" />
+    <state width="1404" height="207" key="GridCell.Tab.0.bottom/74.0.1462.864@74.0.1462.864" timestamp="1581324569557" />
+    <state width="1419" height="276" key="GridCell.Tab.0.center" timestamp="1584267532226">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581781653359" />
+    <state width="1815" height="276" key="GridCell.Tab.0.center/74.0.1462.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1584175210276" />
+    <state width="1419" height="276" key="GridCell.Tab.0.center/74.0.1462.864/1982.0.1858.1080@74.0.1462.864" timestamp="1584267532226" />
+    <state width="1404" height="207" key="GridCell.Tab.0.center/74.0.1462.864@74.0.1462.864" timestamp="1581324569557" />
+    <state width="1419" height="276" key="GridCell.Tab.0.left" timestamp="1584267532226">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581781653355" />
+    <state width="1815" height="276" key="GridCell.Tab.0.left/74.0.1462.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1584175210276" />
+    <state width="1419" height="276" key="GridCell.Tab.0.left/74.0.1462.864/1982.0.1858.1080@74.0.1462.864" timestamp="1584267532226" />
+    <state width="1404" height="207" key="GridCell.Tab.0.left/74.0.1462.864@74.0.1462.864" timestamp="1581324569556" />
+    <state width="1419" height="276" key="GridCell.Tab.0.right" timestamp="1584267532226">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1581781653366" />
+    <state width="1815" height="276" key="GridCell.Tab.0.right/74.0.1462.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1584175210277" />
+    <state width="1419" height="276" key="GridCell.Tab.0.right/74.0.1462.864/1982.0.1858.1080@74.0.1462.864" timestamp="1584267532226" />
+    <state width="1404" height="207" key="GridCell.Tab.0.right/74.0.1462.864@74.0.1462.864" timestamp="1581324569557" />
+    <state width="1419" height="297" key="GridCell.Tab.1.bottom" timestamp="1584258298529">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1815" height="363" key="GridCell.Tab.1.bottom/74.0.1462.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1584175045892" />
+    <state width="1419" height="297" key="GridCell.Tab.1.bottom/74.0.1462.864/1982.0.1858.1080@74.0.1462.864" timestamp="1584258298529" />
+    <state width="1404" height="274" key="GridCell.Tab.1.bottom/74.0.1462.864@74.0.1462.864" timestamp="1581324569547" />
+    <state width="1419" height="297" key="GridCell.Tab.1.center" timestamp="1584258298529">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1815" height="363" key="GridCell.Tab.1.center/74.0.1462.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1584175045891" />
+    <state width="1419" height="297" key="GridCell.Tab.1.center/74.0.1462.864/1982.0.1858.1080@74.0.1462.864" timestamp="1584258298529" />
+    <state width="1404" height="274" key="GridCell.Tab.1.center/74.0.1462.864@74.0.1462.864" timestamp="1581324569547" />
+    <state width="1419" height="297" key="GridCell.Tab.1.left" timestamp="1584258298528">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1815" height="363" key="GridCell.Tab.1.left/74.0.1462.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1584175045891" />
+    <state width="1419" height="297" key="GridCell.Tab.1.left/74.0.1462.864/1982.0.1858.1080@74.0.1462.864" timestamp="1584258298528" />
+    <state width="1404" height="274" key="GridCell.Tab.1.left/74.0.1462.864@74.0.1462.864" timestamp="1581324569547" />
+    <state width="1419" height="297" key="GridCell.Tab.1.right" timestamp="1584258298529">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state width="1815" height="363" key="GridCell.Tab.1.right/74.0.1462.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1584175045891" />
+    <state width="1419" height="297" key="GridCell.Tab.1.right/74.0.1462.864/1982.0.1858.1080@74.0.1462.864" timestamp="1584258298529" />
+    <state width="1404" height="274" key="GridCell.Tab.1.right/74.0.1462.864@74.0.1462.864" timestamp="1581324569547" />
+    <state x="412" y="13" key="SettingsEditor" timestamp="1580651192207">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="2412" y="181" key="SettingsEditor/74.0.1462.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1576949193343" />
+    <state x="412" y="13" key="SettingsEditor/74.0.1462.864@74.0.1462.864" timestamp="1580651192207" />
+    <state x="486" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1580637048535">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="2506" y="320" key="com.intellij.ide.util.TipDialog/74.0.1462.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1579362674694" />
+    <state x="486" y="256" key="com.intellij.ide.util.TipDialog/74.0.1462.864/1982.0.1858.1080@74.0.1462.864" timestamp="1578236365292" />
+    <state x="486" y="256" key="com.intellij.ide.util.TipDialog/74.0.1462.864@74.0.1462.864" timestamp="1580637048535" />
+    <state x="215" y="42" key="new project wizard" timestamp="1581414656340">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="215" y="42" key="new project wizard/74.0.1462.864@74.0.1462.864" timestamp="1581414656340" />
+    <state x="540" y="188" width="672" height="543" key="search.everywhere.popup" timestamp="1584256774644">
+      <screen x="74" y="0" width="1462" height="864" />
+    </state>
+    <state x="2574" y="235" width="672" height="678" key="search.everywhere.popup/74.0.1462.864/1982.0.1858.1080@1982.0.1858.1080" timestamp="1584175125844" />
+    <state x="540" y="188" width="672" height="543" key="search.everywhere.popup/74.0.1462.864/1982.0.1858.1080@74.0.1462.864" timestamp="1584256774644" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dp/最长有效括号.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/math/寻找两个有序数组的中位数.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/greedyAlgorithm/分发糖果.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/binarySearch/在排序数组中查找元素的第一个和最后一个位置.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/string/字符串转换整数.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dp/最长上升子序列.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
