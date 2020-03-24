@@ -23,8 +23,6 @@ public class 整数反转 {
             x = x/10;
         } while (x!=0);
         if(flag==0) return res;
-        In
-
         return res;
     }
 }

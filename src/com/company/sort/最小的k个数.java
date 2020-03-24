@@ -1,12 +1,12 @@
 package com.company.sort;
 
-import com.company.util.ArratyUtils;
+import com.company.util.ArrayUtils;
 
 public class 最小的k个数 {
 
     public static void main(String[] args) {
         最小的k个数 s = new 最小的k个数();
-        ArratyUtils.print(s.getLeastNumbers(new int[]{4,5,1,6,2,7,3,8}, 4));
+        ArrayUtils.print(s.getLeastNumbers(new int[]{4,5,1,6,2,7,3,8}, 4));
     }
     public int[] getLeastNumbers(int[] arr, int k) {
         if(arr.length==0 || k==0) return new int[0];

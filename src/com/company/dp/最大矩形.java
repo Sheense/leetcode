@@ -1,6 +1,6 @@
 package com.company.dp;
 
-import com.company.util.ArratyUtils;
+import com.company.util.ArrayUtils;
 
 public class 最大矩形 {
 
@@ -24,14 +24,14 @@ public class 最大矩形 {
                 else rDp[i][j] = j-1>=0? 1 + rDp[i][j-1] : 1;
             }
         }
-        ArratyUtils.print2(rDp);
+        ArrayUtils.print2(rDp);
         for(int j=0;j<matrix[0].length;j++) {
             for(int i=0;i<matrix.length;i++){
                 if(matrix[i][j]=='0') cDp[i][j] = 0;
                 else cDp[i][j] = i-1>=0? 1 + cDp[i-1][j]:1;
             }
         }
-        ArratyUtils.print2(cDp);
+        ArrayUtils.print2(cDp);
         for(int i=0;i<matrix.length;i++) {
             for(int j=0;j<matrix[0].length;j++) {
                 if(rDp[i][j]!=0) {

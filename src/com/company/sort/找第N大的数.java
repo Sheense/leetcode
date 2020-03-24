@@ -1,7 +1,5 @@
 package com.company.sort;
 
-import com.company.util.ArratyUtils;
-
 public class 找第N大的数{
 
     public static void main(String[] args) {

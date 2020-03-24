@@ -1,6 +1,6 @@
 package com.company.dp;
 
-import com.company.util.ArratyUtils;
+import com.company.util.ArrayUtils;
 
 import java.util.Scanner;
 
@@ -40,7 +40,7 @@ public class 编辑距离 {
                 }
             }
         }
-        ArratyUtils.print2(dp);
+        ArrayUtils.print2(dp);
         return dp[word1Chars.length-1][word2Chars.length-1];
     }
 }

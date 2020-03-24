@@ -1,11 +1,11 @@
 package com.company.binarySearch;
 
-import com.company.util.ArratyUtils;
+import com.company.util.ArrayUtils;
 
 public class 在排序数组中查找元素的第一个和最后一个位置 {
     public static void main(String[] args) {
         在排序数组中查找元素的第一个和最后一个位置 s = new 在排序数组中查找元素的第一个和最后一个位置();
-        ArratyUtils.print(s.searchRange(new int[]{2,2},2) );
+        ArrayUtils.print(s.searchRange(new int[]{2,2},2) );
 
     }
     public int[] searchRange(int[] nums, int target) {

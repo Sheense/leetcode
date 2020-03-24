@@ -1,6 +1,6 @@
 package com.company.dp;
 
-import com.company.util.ArratyUtils;
+import com.company.util.ArrayUtils;
 
 public class 最长数对链 {
     public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class 最长数对链 {
         System.out.println(s.findLongestChain(array));
 
         s.sort(0,array.length-1,array);
-        ArratyUtils.print2(array);
+        ArrayUtils.print2(array);
     }
 
     public int findLongestChain(int[][] pairs) {

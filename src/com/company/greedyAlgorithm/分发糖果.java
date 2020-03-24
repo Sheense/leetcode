@@ -1,6 +1,6 @@
 package com.company.greedyAlgorithm;
 
-import com.company.util.ArratyUtils;
+import com.company.util.ArrayUtils;
 
 public class 分发糖果 {
 
@@ -51,7 +51,7 @@ public class 分发糖果 {
             }
             sum += dp[i];
         }
-        ArratyUtils.print(dp);
+        ArrayUtils.print(dp);
         return sum;
     }
 }
