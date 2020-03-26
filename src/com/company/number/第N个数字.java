@@ -1,4 +1,4 @@
-package com.company.unknow;
+package com.company.number;
 
 public class 第N个数字 {
 
