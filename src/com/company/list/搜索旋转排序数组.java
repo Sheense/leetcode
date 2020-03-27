@@ -20,10 +20,18 @@ public class 搜索旋转排序数组 {
         if(nums[end]==target) return end;
         int mid = (start+end)/2;
         if(nums[mid]==target) return mid;
-        if(nums[start]<target||nums[end]<target||nums[mid]>target) {
-            return find(nums, start, mid-1, target);
-        }else {
-            return find(nums,mid+1, end, target);
+        if(nums[start]>nums[mid]) {
+            if(nums[start]<target||nums[mid]>target) {
+               return find(nums, start, mid-1, target);
+            } else {
+                return find(nums,mid+1,end,target);
+            }
+        } else {
+            if(nums[mid]>target&&nums[start]<target) {
+                return find(nums, start, mid-1, target);
+            } else {
+                return find(nums,mid+1,end,target);
+            }
         }
     }
 }
