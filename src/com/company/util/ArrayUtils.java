@@ -1,6 +1,18 @@
 package com.company.util;
 
+import java.util.List;
+
 public class ArrayUtils {
+
+    public static void print(List<List<Integer>> array) {
+        for(List<Integer> list : array){
+            for(int i : list){
+                System.out.print(i + " ");
+            }
+            System.out.println();
+        }
+    }
+
     public static void print(int[] array) {
         for(int i=0;i<array.length;i++) {
             System.out.print(array[i] + " ");
