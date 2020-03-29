@@ -7,7 +7,7 @@ import java.util.*;
 public class 全排列II {
     public static void main(String[] args) {
         全排列II s = new 全排列II();
-        ArrayUtils.print(s.permuteUnique(new int[]{1,1,2,2}));
+        ArrayUtils.print2(s.permuteUnique(new int[]{1,1,2,2}));
     }
 
     public List<List<Integer>> permuteUnique(int[] nums) {

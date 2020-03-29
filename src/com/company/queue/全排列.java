@@ -10,7 +10,7 @@ import java.util.Queue;
 public class 全排列 {
     public static void main(String[] args) {
         全排列 s = new 全排列();
-        ArrayUtils.print(s.permute(new int[]{1,2,3,5,6,7,8,9}));
+        ArrayUtils.print2(s.permute(new int[]{1,2,3,5,6,7,8,9}));
     }
 
     public List<List<Integer>> permute(int[] nums) {

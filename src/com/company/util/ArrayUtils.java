@@ -1,10 +1,13 @@
 package com.company.util;
 
+import com.company.common.ListNode;
+
+import java.util.Arrays;
 import java.util.List;
 
 public class ArrayUtils {
 
-    public static void print(List<List<Integer>> array) {
+    public static void print2(List<List<Integer>> array) {
         for(List<Integer> list : array){
             for(int i : list){
                 System.out.print(i + " ");
@@ -86,4 +89,28 @@ public class ArrayUtils {
         }
         System.out.print(" ");
     }
+
+    public static ListNode getNodeList(int... values) {
+        ListNode head = new ListNode(values[0]);
+        ListNode now = head;
+        for(int i=1;i<values.length;i++) {
+            now.next = new ListNode(values[i]);
+            now = now.next;
+        }
+        return head;
+    }
+
+    public static void print(ListNode head) {
+        while(head!=null) {
+            System.out.print(head.val+" ");
+            head = head.next;
+        }
+    }
+
+    public static void print(List<Integer> list) {
+        for(int v : list){
+            System.out.print(v+" ");
+        }
+    }
+
 }
