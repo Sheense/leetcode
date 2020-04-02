@@ -9,7 +9,7 @@ public class ArrayUtils {
     public static void print2(List<List<Integer>> array) {
         for(List<Integer> list : array){
             for(int i : list){
-                System.out.print(i + " ");
+                System.out.println(i+' ');
             }
             System.out.println();
         }
@@ -106,9 +106,9 @@ public class ArrayUtils {
         }
     }
 
-    public static void print(List<Integer> list) {
-        for(int v : list){
-            System.out.print(v+" ");
+    public static void print(List list) {
+        for(Object v : list){
+            printObject(v);
         }
     }
 

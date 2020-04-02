@@ -1,4 +1,4 @@
-package com.company.bitOperation;
+package com.company.dp;
 
 import com.company.util.ArrayUtils;
 
@@ -15,17 +15,15 @@ public class 格雷编码 {
     public List<Integer> grayCode(int n) {
         List<Integer> res = new ArrayList<>();
         res.add(0);
-        int j = 0;
-        while(res.size()<(Math.pow(2, n+1)-1)) {
-            int index = 0;
-            while(index<n&&res.size()<(Math.pow(2, n+1)-1)){
-                j += Math.pow(2, index);
-                res.add(j);
-                index++;
+        if(n==0) return res;
+        int index = 0;
+        while(index!=n) {
+            int size = res.size();
+            int add = 1<<index;
+            for(int i=size-1;i>=0;i--) {
+                res.add(res.get(i)+add);
             }
-            if(res.size()<(Math.pow(2, n+1)-1)) break;
-            index = 0;
-
+            index++;
         }
         return res;
     }
