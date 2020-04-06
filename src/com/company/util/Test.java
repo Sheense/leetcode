@@ -1,14 +1,6 @@
 package com.company.util;
 
-import com.company.unknow.LFUCache;
-
-import java.time.Duration;
-import java.time.LocalDateTime;
-import java.time.ZoneOffset;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
-import java.util.stream.Collectors;
+import com.company.hash.LFUCache;
 
 public class Test {
     public static void main(String[] args) throws InterruptedException {

@@ -1,4 +1,4 @@
-package com.company.unknow;
+package com.company.hash;
 
 public class LFUCache {
 

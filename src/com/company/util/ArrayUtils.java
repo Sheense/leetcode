@@ -1,5 +1,6 @@
 package com.company.util;
 
+
 import com.company.common.ListNode;
 import java.util.List;
 
@@ -89,6 +90,7 @@ public class ArrayUtils {
     }
 
     public static ListNode getNodeList(int... values) {
+        if(values.length==0) return null;
         ListNode head = new ListNode(values[0]);
         ListNode now = head;
         for(int i=1;i<values.length;i++) {
