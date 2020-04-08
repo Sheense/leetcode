@@ -1,6 +1,5 @@
 package com.company.util;
 
-
 import com.company.common.ListNode;
 import java.util.List;
 
