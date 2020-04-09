@@ -1,48 +1,33 @@
 package com.company.recall;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class 单词拆分II {
 
+
     public static void main(String[] args) {
         单词拆分II s =new 单词拆分II();
-        System.out.println(s.wordBreak("pineapplepenapple", Arrays.asList("apple", "pen", "applepen", "pine", "pineapple")));
+        System.out.println(s.wordBreak("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", Arrays.asList("a","aa","aaa","aaaa","aaaaa","aaaaaa","aaaaaaa","aaaaaaaa","aaaaaaaaa","aaaaaaaaaa")));
     }
 
     public List<String> wordBreak(String s, List<String> wordDict) {
-        Node[] hash = new Node[26];
-        for(String str :wordDict) {
-            int index = (str.charAt(0)-'a')%26;
-            if(hash[index] == null) {
-                hash[index] = new Node();
-            }
-            hash[index].list.add(str);
-        }
+        Map<String, List<String>> hash = new HashMap<>();
+        Set<String> set = new HashSet<>(wordDict);
         List<String> res = new ArrayList<>();
-        recall(res, s, 0, hash, new StringBuilder());
+        recall(res, s, 0, hash, new StringBuilder(), set);
         return res;
     }
 
-    public void recall(List<String> res, String s, int start, Node[] hash, StringBuilder now) {
+    public void recall(List<String> res, String s, int start, Map<String, List<String>> hash, StringBuilder now,Set<String> set) {
         if(s.length()==start) {
             res.add(now.toString().substring(0, now.toString().length()-1));
             return ;
         }
-        int index = (s.charAt(start)-'a')%26;
-        if(hash[index]==null) return;
-        List<String> list = hash[index].list;
-        for(String string:list){
-            if(string.length()<=s.length()-start&&string.equals(s.substring(start, string.length()+start))) {
-                StringBuilder sb = new StringBuilder(now);
-                sb.append(string+" ");
-                recall(res, s, string.length()+start, hash, sb);
-            }
+
+        for(String str : set) {
+
         }
     }
 
-    public class Node{
-        List<String> list = new ArrayList<>();
-    }
+
 }
