@@ -14,18 +14,18 @@ public class 单词拆分II {
         Map<String, List<String>> hash = new HashMap<>();
         Set<String> set = new HashSet<>(wordDict);
         List<String> res = new ArrayList<>();
-        recall(res, s, 0, hash, new StringBuilder(), set);
+
         return res;
     }
 
-    public void recall(List<String> res, String s, int start, Map<String, List<String>> hash, StringBuilder now,Set<String> set) {
-        if(s.length()==start) {
-            res.add(now.toString().substring(0, now.toString().length()-1));
-            return ;
-        }
+    public void recall(List<String> res, String s, int start, Map<String, List<String>> hash,Set<String> set) {
+        if(start == s.length()) return ;
 
         for(String str : set) {
+            List<String> list = hash.get(start);
+            for(String string : list) {
 
+            }
         }
     }
 
