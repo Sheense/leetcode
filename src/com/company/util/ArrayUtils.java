@@ -3,6 +3,7 @@ package com.company.util;
 import com.company.common.ListNode;
 import java.util.List;
 
+
 public class ArrayUtils {
 
     public static void print2(List<List<Integer>> array) {
