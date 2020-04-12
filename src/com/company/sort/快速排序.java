@@ -9,7 +9,7 @@ public class 快速排序 {
         while(left<right) {
             while(left<right&&arr[right]>=key)  right--;
             arr[left] = arr[right];
-            while(left<right&&arr[left]<=key) left--;
+            while(left<right&&arr[left]<=key) left++;
             arr[right] = arr[left];
         }
         arr[left] = key;
