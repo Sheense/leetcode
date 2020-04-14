@@ -10,6 +10,7 @@ public class ArrayUtils {
             for(int i : list){
                 System.out.println(i+' ');
             }
+
             System.out.println();
         }
     }
