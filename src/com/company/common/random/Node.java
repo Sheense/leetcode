@@ -1,4 +1,4 @@
-package com.company.common.other;
+package com.company.common.random;
 
 public class Node {
     public int val;

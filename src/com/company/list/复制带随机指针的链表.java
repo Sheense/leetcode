@@ -1,11 +1,9 @@
 package com.company.list;
 
-import com.company.common.other.Node;
+import com.company.common.random.Node;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 public class 复制带随机指针的链表 {
 
