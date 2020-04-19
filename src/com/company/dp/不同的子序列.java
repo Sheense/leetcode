@@ -10,7 +10,6 @@ public class 不同的子序列 {
     }
 
     public int numDistinct(String s, String t) {
-        if(s.length()==0||t.length()==0) return 0;
         int [][] dp = new int[t.length()][s.length()];
         for(int i=0;i<t.length();i++) {
             for(int j=0;j<s.length();j++) {
