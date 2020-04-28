@@ -5,7 +5,6 @@ import java.util.List;
 
 public class ArrayUtils {
 
-
     public static void print2(List<List<Integer>> array) {
         for(List<Integer> list : array){
             for(int i : list){

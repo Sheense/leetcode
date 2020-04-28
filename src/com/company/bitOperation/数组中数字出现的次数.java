@@ -6,7 +6,7 @@ public class 数组中数字出现的次数 {
 
     public static void main(String[] args) {
         数组中数字出现的次数 s = new 数组中数字出现的次数();
-        ArrayUtils.print(s.singleNumbers(new int[]{1,6,10,4,1,4,3,3}));
+        ArrayUtils.print(s.singleNumbers(new int[]{1,2,1,3,2,5}));
     }
 
     public int[] singleNumbers(int[] nums) {
