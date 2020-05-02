@@ -1,9 +1,9 @@
 package com.company.dp;
 
-public class 买卖股票的最佳时机3 {
+public class 买卖股票的最佳时机III {
 
     public static void main(String[] args) {
-        买卖股票的最佳时机3 s = new 买卖股票的最佳时机3();
+        买卖股票的最佳时机III s = new 买卖股票的最佳时机III();
         System.out.print(s.maxProfit(new int[] {3,2,6,5,0,3}));
     }
 
