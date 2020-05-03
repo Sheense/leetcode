@@ -1,4 +1,4 @@
-package com.company.list;
+package com.company.array;
 
 import com.company.util.ArrayUtils;
 
