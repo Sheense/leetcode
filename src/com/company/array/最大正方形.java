@@ -1,6 +1,5 @@
 package com.company.array;
 
-import com.company.util.ArrayUtils;
 
 public class 最大正方形 {
 
@@ -12,28 +11,8 @@ public class 最大正方形 {
                             {'1' ,'1' ,'1' ,'1' ,'1'},
                             {'1', '0' ,'0' ,'1' ,'0'}
         };
-
-        /*char[][] map = {{'1','1'}};*/
-
         System.out.println(s.maximalSquare(map));
     }
-    /*for(int i=0;i<matrix.length;i++) {
-                for(int j=0;j<matrix[i].length;j++) {
-                    if(j!=0){
-                        if(matrix[i][j]=='1') {
-                            matrix[i][j] = (char)(1+matrix[i][j-1]);
-                        }else {
-                            matrix[i][j] = 0;
-                        }
-                    }else {
-                        if(matrix[i][j]=='1') {
-                            matrix[i][j]=1;
-                        }else {
-                            matrix[i][j] =0;
-                        }
-                    }
-                }
-            }*/
     public int maximalSquare(char[][] matrix) {
         if(matrix.length==0) return 0;
         int max = 0;
