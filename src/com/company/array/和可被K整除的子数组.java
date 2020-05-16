@@ -15,25 +15,25 @@ public class 和可被K整除的子数组 {
     }
 
     public int subarraysDivByK(int[] A, int K) {
-        Map<Integer, Integer> map = new HashMap<>();
+        int [] map1 = new int [K];
+        int [] map2 = new int [K];
         int add = 0;
         int res = 0;
-        map.put(0,1);
+        map1[0] = 1;
         for(int i=0;i<A.length;i++) {
             add += A[i];
-            A[i] = add;
-            if(add%K==0) {
-                res += map.get(0);
+            int yu = add%K;
+            if(yu<0) {
+                res += map2[-yu];
+                res += map1[yu+K];
+                map2[-yu]++;
+            }else if(yu>0){
+                res += map1[yu];
+                res += map2[-(yu-K)];
+                map1[yu]++;
             }else {
-                int yu = add %K;
-                res += map.getOrDefault(add-yu,0);
-                res += map.getOrDefault(add+K-yu,0);
-            }
-
-            if(map.containsKey(add)) {
-                map.put(add, map.get(add)+1);
-            }else {
-                map.put(add, 1);
+                res += map1[0];
+                map1[0]++;
             }
         }
         return res;
