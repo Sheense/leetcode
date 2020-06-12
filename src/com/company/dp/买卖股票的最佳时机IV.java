@@ -4,7 +4,7 @@ import com.company.util.ArrayUtils;
 
 import java.util.*;
 //三维动态
-//1交易次数
+//1给你多少次可以交易
 //2标识第几天
 //3、是否买入
 public class 买卖股票的最佳时机IV {
