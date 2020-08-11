@@ -9,12 +9,10 @@ public class 被围绕的区域 {
     public static void main(String[] args) {
         被围绕的区域 s = new 被围绕的区域();
         char[][] c = new char[][]{
-                            {'O','O','O','O','X','X'},
-                            {'O','O','O','O','O','O'},
-                            {'O','X','O','X','O','O'},
-                            {'O','X','O','O','X','O'},
-                            {'O','X','O','X','O','O'},
-                            {'O','X','O','O','O','O'}
+                            {'X','O','X','O','X','O'},
+                            {'O','X','O','X','O','X'},
+                            {'X','O','X','O','X','O'},
+                            {'O','X','O','X','O','X'}
         };
         s.solve(c);
         ArrayUtils.print2(c);
@@ -87,4 +85,5 @@ public class 被围绕的区域 {
         }
         return res;
     }
+
 }
