@@ -97,6 +97,9 @@ public class ArrayUtils {
         if(object instanceof Double) {
             System.out.print((double) object);
         }
+        if(object instanceof Character) {
+            System.out.print((char)object);
+        }
         System.out.print(" ");
     }
 
