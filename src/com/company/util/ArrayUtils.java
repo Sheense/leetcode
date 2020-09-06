@@ -98,7 +98,8 @@ public class ArrayUtils {
             System.out.print((double) object);
         }
         if(object instanceof Character) {
-            System.out.print((char)object);
+            System.out.print((char)object
+            );
         }
         System.out.print(" ");
     }
