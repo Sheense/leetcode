@@ -47,6 +47,14 @@ public class ArrayUtils {
             System.out.println();
         }
     }
+    public static void print2(long[][] array) {
+        for(int i=0;i<array.length;i++) {
+            for(int j=0;j<array[0].length;j++) {
+                printObject(array[i][j]);
+            }
+            System.out.println();
+        }
+    }
 
     public static void print2(char[][] array) {
         for(int i=0;i<array.length;i++) {
@@ -99,6 +107,10 @@ public class ArrayUtils {
         }
         if(object instanceof Character) {
             System.out.print((char)object
+            );
+        }
+        if(object instanceof Long) {
+            System.out.print((long)object
             );
         }
         System.out.print(" ");
