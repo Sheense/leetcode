@@ -1,6 +1,7 @@
 package com.company.math;
 
-public class 丑数 {
+public class
+丑数 {
     public boolean isUgly(int num) {
         if(num==0) return false;
         boolean flag = true;

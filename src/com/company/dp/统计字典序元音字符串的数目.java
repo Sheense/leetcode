@@ -1,21 +1,23 @@
-package com.company.array;
+package com.company.dp;
 
 public class 统计字典序元音字符串的数目 {
     public int countVowelStrings(int n) {
-        int dp[][] = new int[n][5];
+        int dp[] = new int[5];
         for(int i=0;i<n;i++) {
+            int[] temp = new int[5];
             for(int j=0;j<5;j++) {
-                if(i == 0) dp[i][j] = 1;
+                if(i == 0) temp[j] = 1;
                 else {
                     for(int z = j;z>=0;z--) {
-                        dp[i][j] += dp[i-1][z];
+                        temp[j] += dp[z];
                     }
                 }
             }
+            dp = temp;
         }
         int res = 0;
         for(int j=0;j<5;j++) {
-            res += dp[dp.length-1][j];
+            res += dp[j];
         }
         return res;
     }

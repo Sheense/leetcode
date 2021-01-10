@@ -24,7 +24,7 @@ public class 任务调度器 {
         while(arr[0]>0) {
             int i = 0;
             int item = 1;
-            while(arr[i]!=0&&item<=n+1) {
+            while(i<26&&arr[i]!=0&&item<=n+1) {
                 arr[i]--;
                 i++;
                 item++;

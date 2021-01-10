@@ -19,6 +19,14 @@ public class ArrayUtils {
         }
         System.out.println();
     }
+
+    public static void print(Integer[] array) {
+        for(int i=0;i<array.length;i++) {
+            System.out.print(array[i] + " ");
+        }
+        System.out.println();
+    }
+
     public static void print(String[] array) {
         for(int i=0;i<array.length;i++) {
             System.out.print(array[i] + " ");
