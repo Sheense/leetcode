@@ -7,34 +7,36 @@ public class 最长湍流子数组 {
     }
     public int maxTurbulenceSize(int[] A) {
         int dp[][] = new int[A.length][2];
+        int max1 = 1;
+        int max2 = 1;
         dp[0][0] = 1;
         dp[0][1] = 1;
         int res = 1;
         for(int i=1;i<A.length;i++) {
             if((i-1)%2==0) {
                 if(A[i-1]<A[i]) {
-                    dp[i][0] = dp[i-1][0] + 1;
-                    dp[i][1] = 1;
+                    max1 ++;
+                    max2 = 1;
                 }else if(A[i-1]>A[i]){
-                    dp[i][0] = 1;
-                    dp[i][1] = dp[i-1][1] + 1;
+                    max1 = 1;
+                    max2 ++;
                 } else{
-                    dp[i][0] = 1;
-                    dp[i][1] = 1;
+                    max1 = 1;
+                    max2 = 1;
                 }
             }else {
                 if(A[i-1]<A[i]) {
-                    dp[i][0] = 1;
-                    dp[i][1] = dp[i-1][1] + 1;
+                    max1 = 1;
+                    max2 ++;
                 }else if(A[i-1]>A[i]){
-                    dp[i][0] = dp[i-1][0] + 1;
-                    dp[i][1] = 1;
+                    max1 ++;
+                    max2 = 1;
                 } else{
-                    dp[i][0] = 1;
-                    dp[i][1] = 1;
+                    max1 = 1;
+                    max2 = 1;
                 }
             }
-            res = Math.max(res, Math.max(dp[i][0], dp[i][1]));
+            res = Math.max(res, Math.max(max1,max2));
         }
         return res;
     }

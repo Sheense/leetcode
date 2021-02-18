@@ -2,6 +2,8 @@ package com.company.list;
 
 import com.company.common.ListNode;
 
+import java.util.Stack;
+
 public class 回文链表 {
 
     public static void main(String[] args) {
@@ -13,6 +15,22 @@ public class 回文链表 {
         System.out.println(s.isPalindrome(root));
     }
     public boolean isPalindrome(ListNode head) {
+        Stack<Integer> stack = new Stack<>();
+        ListNode root = head;
+        while(root!=null) {
+            stack.push(root.val);
+            root = root.next;
+        }
+        root = head;
+        while(!stack.isEmpty()) {
+            if(stack.pop()!=root.val) {
+                return false;
+            }
+            root = root.next;
+        }
+        return true;
+    }
+    /*public boolean isPalindrome(ListNode head) {
         if(head==null||head.next==null) return true;
         int num = 0;
         ListNode root= head;
@@ -49,5 +67,5 @@ public class 回文链表 {
             node = last;
         }
         return next;
-    }
+    }*/
 }

@@ -2,78 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffc8c3a8-7a8a-4f89-a61e-7be6108723aa" name="Default Changelist" comment="2020 07.29 23:00">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/保证图可完全遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/情侣牵手.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/打砖块.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/找到最小生成树里的关键边和伪关键边.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/最小体力消耗路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/最长连续序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/水位上升的泳池中游泳.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/相似字符串组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/移除最多的同行或同列石头.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/账户合并.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/连接所有点的最小费用.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/三个数的最大乘积.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/从相邻元素对还原数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/你能在你最喜欢的那天吃到你最喜欢的糖果吗.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/公平的糖果棒交换.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/可以形成最大正方形的矩形数目.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/可被5整除的二进制前缀.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/子数组最大平均数I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/寻找数组的中心索引.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/尽可能使字符串相等.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/找出第K大的异或坐标值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/数组形式的整数加法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/数组拆分I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/替换后的最长重复字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/替换隐藏数字得到的最晚时间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/满足三条件之一需改变的最少字符数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/等价多米诺骨牌对的数量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/缀点成线.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/重塑矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/重新排列后的最大子矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/非递减数列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/binarySearch/将数组分成三个子数组的方案数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/bitOperation/由斜杠划分区域.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/dp/零钱兑换II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/卡车上的最大单元数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/list/从尾到头打印链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/list/从链表中删去总和值为零的连续节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/list/分隔链表_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/list/删除中间节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/list/合并两个链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/list/设计前中后队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/list/链表中倒数第k个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/list/链表组件.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/map/同积元组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/math/把数组排成最小的数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/math/盒子中小球的最大数量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/queue/数据流中的中位数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/sort/大餐计数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/sort/项目管理.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/tree/二叉树中的列表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/tree/特定深度节点链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/unknow/可获得的最大点数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/window/K个不同整数的子数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/window/K连续位的最小翻转次数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/window/字符串的排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/window/数据流中的第K大元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/window/最大连续1的个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/window/最大连续1的个数III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/window/滑动窗口中位数.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/com/company/util/ArrayUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/com/company/util/ArrayUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/交换字符串中的元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/交换字符串中的元素.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/婴儿名字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/婴儿名字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/省份数量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/省份数量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/连通网络的操作次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/连通网络的操作次数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/除法求值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/除法求值.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/上升下降字符串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/上升下降字符串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/丢失的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/丢失的数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/二维数组中的查找.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/二维数组中的查找.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/判断字符串的两半是否相似.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/判断字符串的两半是否相似.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/字符串中的第一个唯一字符.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/字符串中的第一个唯一字符.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/执行交换操作后的最小汉明距离.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/执行交换操作后的最小汉明距离.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/找不同.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/找不同.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/最富有客户的资产总量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/最富有客户的资产总量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/构建乘积数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/构建乘积数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/柠檬水找零.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/柠檬水找零.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/比特位计数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/比特位计数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/生成平衡数组的方案数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/生成平衡数组的方案数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/种花问题.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/种花问题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/移动零.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/移动零.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/array/较大分组的位置.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/array/较大分组的位置.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/bitOperation/不用加减乘除做加法.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/bitOperation/不用加减乘除做加法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/bitOperation/数组中数字出现的次数II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/bitOperation/数组中数字出现的次数II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/bitOperation/解码异或后的数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/bitOperation/解码异或后的数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/dfs/球会落何处.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dfs/球会落何处.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/difference/使数组互补的最少操作次数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/difference/使数组互补的最少操作次数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/dp/使用最小花费爬楼梯.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dp/使用最小花费爬楼梯.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/dp/剪绳子.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dp/剪绳子.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/dp/摆动序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dp/摆动序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/dp/正则表达式匹配.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dp/正则表达式匹配.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/dp/石子游戏VII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dp/石子游戏VII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/dp/礼物的最大价值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dp/礼物的最大价值.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/dp/跳跃游戏VI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dp/跳跃游戏VI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/game/Nim游戏.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/game/Nim游戏.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/任务调度器.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/任务调度器.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/具有给定数值的最小字符串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/具有给定数值的最小字符串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/单调递增的数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/单调递增的数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/完成所有任务的最少初始能量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/完成所有任务的最少初始能量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/按要求补齐数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/按要求补齐数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/无重叠区间.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/无重叠区间.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/根据身高重建队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/根据身高重建队列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/用最少数量的箭引爆气球.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/用最少数量的箭引爆气球.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/目标和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/目标和.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/翻转矩阵后的得分.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/翻转矩阵后的得分.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/hash/四数相加II.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/hash/四数相加II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/list/交换链表中的节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/list/交换链表中的节点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/math/丑数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/math/丑数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/math/数值的整数次方.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/math/数值的整数次方.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/queue/Dota2参议院.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/queue/Dota2参议院.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/queue/分割数组为连续子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/queue/分割数组为连续子序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/queue/吃苹果的最大数目.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/queue/吃苹果的最大数目.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/queue/最后一块石头的重量.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/queue/最后一块石头的重量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/queue/滑动窗口最大值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/queue/滑动窗口最大值.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/queue/距离顺序排列矩阵单元格.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/queue/距离顺序排列矩阵单元格.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/recall/至少有K个重复字符的最长子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/recall/至少有K个重复字符的最长子串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/sort/分发饼干.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/sort/分发饼干.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/sort/翻转对.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/sort/翻转对.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/stack/去除重复字母.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/stack/去除重复字母.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/stack/找出最具竞争力的子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/stack/找出最具竞争力的子序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/stack/拼接最大数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/stack/拼接最大数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/stack/最大交换.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/stack/最大交换.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/stack/递增的三元子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/stack/递增的三元子序列.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/string/单词规律.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/string/单词规律.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/string/反转字符串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/string/反转字符串.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/string/检查两个字符串数组是否相等.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/string/检查两个字符串数组是否相等.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/string/重新格式化电话号码.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/string/重新格式化电话号码.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/tree/从上到下打印二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/tree/从上到下打印二叉树.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/tree/路径总和III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/tree/路径总和III.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/util/ArrayUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/util/ArrayUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/window/删除子数组的最大得分.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/window/删除子数组的最大得分.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/dp/最长湍流子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dp/最长湍流子数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/list/回文链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/list/回文链表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,13 +126,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
-  <component name="RunManager" selected="Application.连通网络的操作次数">
-    <configuration name="婴儿名字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.DisjointSetUnion.婴儿名字" />
+  <component name="RunManager" selected="Application.最大连续1的个数III">
+    <configuration name="可获得的最大点数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.unknow.可获得的最大点数" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.DisjointSetUnion.*" />
+          <option name="PATTERN" value="com.company.unknow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +140,103 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="执行交换操作后的最小汉明距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.array.执行交换操作后的最小汉明距离" />
+    <configuration name="最大连续1的个数III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.window.最大连续1的个数III" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串的排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.window.字符串的排列" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="K个不同整数的子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.window.K个不同整数的子数组" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数据流中的第K大元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.window.数据流中的第K大元素" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.window.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中的最长山脉" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.GeminiNeedle.数组中的最长山脉" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.GeminiNeedle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="单词规律" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.单词规律" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="所有排列中的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.所有排列中的最大和" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="模式匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.模式匹配" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +257,285 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="连接所有点的最小费用" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DisjointSetUnion.连接所有点的最小费用" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.DisjointSetUnion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="旅行终点站" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.旅行终点站" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串转换整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.字符串转换整数" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="找到所有数组中消失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.找到所有数组中消失的数字" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="根据身高重建队列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.greedyAlgorithm.根据身高重建队列" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.greedyAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="非递减数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.非递减数列" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="重新排列单词间的空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.重新排列单词间的空格" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="确定两个字符串是否接近" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.确定两个字符串是否接近" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="单词拆分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.单词拆分" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串转换整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.字符串转换整数" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="绝对差不超过限制的最长连续子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.绝对差不超过限制的最长连续子数组" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分割两个字符串得到回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.分割两个字符串得到回文串" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组形式的整数加法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.数组形式的整数加法" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字母与数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.字母与数字" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="交换链表中的节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.list.交换链表中的节点" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="括号的分数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.stack.括号的分数" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="从链表中删去总和值为零的连续节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.list.从链表中删去总和值为零的连续节点" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最大矩形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.最大矩形" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="通配符匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.通配符匹配" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分发糖果" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.greedyAlgorithm.分发糖果" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.greedyAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="岛屿的最大面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.map.岛屿的最大面积" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="视频拼接" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.视频拼接" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,6 +569,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="字符串转换整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.string.字符串转换整数" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="最长数对链" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.dp.最长数对链" />
       <module name="project" />
@@ -241,38 +608,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="合并两个链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.list.合并两个链表" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="所有排列中的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.array.所有排列中的最大和" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="确定两个字符串是否接近" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.string.确定两个字符串是否接近" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="岛屿的最大面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.map.岛屿的最大面积" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,19 +699,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="字符串转换整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.string.字符串转换整数" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="等差子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.array.等差子数组" />
       <module name="project" />
@@ -384,6 +725,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="执行交换操作后的最小汉明距离" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.执行交换操作后的最小汉明距离" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.dp.买卖股票的最佳时机" />
       <module name="project" />
@@ -397,12 +751,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="寻找两个有序数组的中位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.math.寻找两个有序数组的中位数" />
+    <configuration name="设计有序流" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.设计有序流" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.math.*" />
+          <option name="PATTERN" value="com.company.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -410,12 +764,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="设计有序流" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.array.设计有序流" />
+    <configuration name="寻找两个有序数组的中位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.math.寻找两个有序数组的中位数" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.array.*" />
+          <option name="PATTERN" value="com.company.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -462,246 +816,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="数组中的最长山脉" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.GeminiNeedle.数组中的最长山脉" />
+    <configuration name="账户合并" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DisjointSetUnion.账户合并" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.GeminiNeedle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="单词规律" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.string.单词规律" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="所有排列中的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.array.所有排列中的最大和" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="模式匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.string.模式匹配" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="旅行终点站" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.string.旅行终点站" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符串转换整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.string.字符串转换整数" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找到所有数组中消失的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.array.找到所有数组中消失的数字" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="根据身高重建队列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.greedyAlgorithm.根据身高重建队列" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.greedyAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="重新排列单词间的空格" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.array.重新排列单词间的空格" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="单词拆分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.dp.单词拆分" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符串转换整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.string.字符串转换整数" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="绝对差不超过限制的最长连续子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.array.绝对差不超过限制的最长连续子数组" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="分割两个字符串得到回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.string.分割两个字符串得到回文串" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字母与数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.array.字母与数字" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="括号的分数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.stack.括号的分数" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最大矩形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.dp.最大矩形" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="通配符匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.dp.通配符匹配" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="分发糖果" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.greedyAlgorithm.分发糖果" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.greedyAlgorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="视频拼接" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.dp.视频拼接" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.dp.*" />
+          <option name="PATTERN" value="com.company.DisjointSetUnion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -710,19 +830,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.婴儿名字" />
-      <item itemvalue="Application.交换链表中的节点" />
-      <item itemvalue="Application.执行交换操作后的最小汉明距离" />
-      <item itemvalue="Application.不用加减乘除做加法" />
-      <item itemvalue="Application.连通网络的操作次数" />
+      <item itemvalue="Application.可获得的最大点数" />
+      <item itemvalue="Application.K个不同整数的子数组" />
+      <item itemvalue="Application.字符串的排列" />
+      <item itemvalue="Application.数据流中的第K大元素" />
+      <item itemvalue="Application.最大连续1的个数III" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.连通网络的操作次数" />
-        <item itemvalue="Application.不用加减乘除做加法" />
-        <item itemvalue="Application.执行交换操作后的最小汉明距离" />
-        <item itemvalue="Application.交换链表中的节点" />
-        <item itemvalue="Application.婴儿名字" />
+        <item itemvalue="Application.最大连续1的个数III" />
+        <item itemvalue="Application.数据流中的第K大元素" />
+        <item itemvalue="Application.字符串的排列" />
+        <item itemvalue="Application.K个不同整数的子数组" />
+        <item itemvalue="Application.可获得的最大点数" />
       </list>
     </recent_temporary>
   </component>
@@ -786,6 +906,10 @@
       <workItem from="1604246773956" duration="65433000" />
       <workItem from="1605546757578" duration="82865000" />
       <workItem from="1608435458533" duration="70586000" />
+      <workItem from="1610899464633" duration="5143000" />
+      <workItem from="1610985919623" duration="9991000" />
+      <workItem from="1611418406129" duration="103096000" />
+      <workItem from="1612894707060" duration="11878000" />
     </task>
     <task id="LOCAL-00001" summary="2020 05.03 23:00">
       <created>1588524188613</created>
@@ -834,62 +958,54 @@
     </state>
     <state x="2627" y="164" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609049607685" />
     <state x="605" y="136" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1606552002824" />
-    <state x="2718" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600525953760">
+    <state width="1877" height="211" key="GridCell.Tab.0.bottom" timestamp="1613665045067">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2718" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600525953760" />
-    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602606985213">
-      <screen x="62" y="0" width="1474" height="864" />
-    </state>
-    <state x="300" y="0" key="CommitChangelistDialog2/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1602606985213" />
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom" timestamp="1610300374861">
+    <state width="1877" height="211" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613665045067" />
+    <state width="1431" height="175" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1431" height="211" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1612977996327" />
+    <state width="1877" height="211" key="GridCell.Tab.0.center" timestamp="1613665045067">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610300374861" />
-    <state width="1431" height="216" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1606543291236" />
-    <state width="1431" height="279" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1604246749993" />
-    <state width="1877" height="321" key="GridCell.Tab.0.center" timestamp="1610300374861">
+    <state width="1877" height="211" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613665045067" />
+    <state width="1431" height="175" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1431" height="211" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1612977996327" />
+    <state width="1877" height="211" key="GridCell.Tab.0.left" timestamp="1613665045067">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610300374861" />
-    <state width="1431" height="216" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1606543291236" />
-    <state width="1431" height="279" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1604246749993" />
-    <state width="1877" height="321" key="GridCell.Tab.0.left" timestamp="1610300374861">
+    <state width="1877" height="211" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613665045067" />
+    <state width="1431" height="175" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029413" />
+    <state width="1431" height="211" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1612977996326" />
+    <state width="1877" height="211" key="GridCell.Tab.0.right" timestamp="1613665045067">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610300374861" />
-    <state width="1431" height="216" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1606543291235" />
-    <state width="1431" height="279" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1604246749993" />
-    <state width="1877" height="321" key="GridCell.Tab.0.right" timestamp="1610300374861">
+    <state width="1877" height="211" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613665045067" />
+    <state width="1431" height="175" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1431" height="211" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1612977996327" />
+    <state width="1877" height="226" key="GridCell.Tab.1.bottom" timestamp="1613664923861">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610300374861" />
-    <state width="1431" height="216" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1606543291236" />
-    <state width="1431" height="279" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1604246749993" />
-    <state width="1877" height="321" key="GridCell.Tab.1.bottom" timestamp="1610300375277">
+    <state width="1877" height="226" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613664923861" />
+    <state width="1431" height="175" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1431" height="175" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1612895728420" />
+    <state width="1877" height="226" key="GridCell.Tab.1.center" timestamp="1613664923860">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610300375277" />
-    <state width="1431" height="280" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1605550026908" />
-    <state width="1431" height="279" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1604246749993" />
-    <state width="1877" height="321" key="GridCell.Tab.1.center" timestamp="1610300375276">
+    <state width="1877" height="226" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613664923860" />
+    <state width="1431" height="175" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1431" height="175" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1612895728420" />
+    <state width="1877" height="226" key="GridCell.Tab.1.left" timestamp="1613664923860">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610300375276" />
-    <state width="1431" height="280" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1605550026908" />
-    <state width="1431" height="279" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1604246749993" />
-    <state width="1877" height="321" key="GridCell.Tab.1.left" timestamp="1610300375276">
+    <state width="1877" height="226" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613664923860" />
+    <state width="1431" height="175" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1431" height="175" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1612895728420" />
+    <state width="1877" height="226" key="GridCell.Tab.1.right" timestamp="1613664923861">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="321" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610300375276" />
-    <state width="1431" height="280" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1605550026908" />
-    <state width="1431" height="279" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1604246749993" />
-    <state width="1877" height="321" key="GridCell.Tab.1.right" timestamp="1610300375276">
-      <screen x="1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="321" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610300375276" />
-    <state width="1431" height="280" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1605550026908" />
-    <state width="1431" height="279" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1604246749993" />
+    <state width="1877" height="226" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613664923861" />
+    <state width="1431" height="175" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1431" height="175" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1612895728420" />
     <state x="2578" y="408" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607776360822">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -902,11 +1018,12 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2546" y="99" width="667" height="849" key="find.popup/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606061764071" />
-    <state x="2532" y="226" width="876" height="654" key="search.everywhere.popup" timestamp="1610281355650">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="532" y="188" width="672" height="543" key="search.everywhere.popup" timestamp="1612976905122">
+      <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="2532" y="226" width="876" height="654" key="search.everywhere.popup/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1610281355650" />
-    <state x="532" y="188" width="672" height="543" key="search.everywhere.popup/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1610279878750" />
+    <state x="2532" y="226" width="876" height="654" key="search.everywhere.popup/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612369864441" />
+    <state x="532" y="188" width="672" height="543" key="search.everywhere.popup/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612721079625" />
+    <state x="532" y="188" width="672" height="543" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1612976905122" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1201,13 +1318,123 @@
           <line>21</line>
           <option name="timeStamp" value="331" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/DisjointSetUnion/连接所有点的最小费用.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/array/数组形式的整数加法.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/math/把数组排成最小的数.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/binarySearch/将数组分成三个子数组的方案数.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/bitOperation/由斜杠划分区域.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/array/等价多米诺骨牌对的数量.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/DisjointSetUnion/水位上升的泳池中游泳.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/list/分隔链表_.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/DisjointSetUnion/相似字符串组.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/array/你能在你最喜欢的那天吃到你最喜欢的糖果吗.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/array/替换后的最长重复字符.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/array/替换后的最长重复字符.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/window/滑动窗口中位数.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/window/滑动窗口中位数.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="351" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/window/滑动窗口中位数.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/array/尽可能使字符串相等.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/unknow/可获得的最大点数.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/array/非递减数列.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="355" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/list/从链表中删去总和值为零的连续节点.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/list/合并两个链表.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/window/K个不同整数的子数组.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/window/字符串的排列.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/window/最大连续1的个数III.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="keys" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leetcode$.ic" NAME="交换链表中的节点 Coverage Results" MODIFIED="1610247715848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
