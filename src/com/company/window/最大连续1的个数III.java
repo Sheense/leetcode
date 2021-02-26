@@ -2,8 +2,11 @@ package com.company.window;
 
 public class 最大连续1的个数III {
     public static void main(String[] args) {
-        最大连续1的个数III s = new 最大连续1的个数III();
-        System.out.println(s.longestOnes(new int[]{0,0,1,1,1,0,0},0));
+        Integer a = 128;
+        Integer b = 128;
+        System.out.println(a == 128);
+        /*最大连续1的个数III s = new 最大连续1的个数III();
+        System.out.println(s.longestOnes(new int[]{0,0,1,1,1,0,0},0));*/
     }
     public int longestOnes(int[] A, int K) {
         int res = 0;

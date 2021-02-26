@@ -2,68 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffc8c3a8-7a8a-4f89-a61e-7be6108723aa" name="Default Changelist" comment="2020 07.29 23:00">
-      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/保证图可完全遍历.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/情侣牵手.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/打砖块.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/找到最小生成树里的关键边和伪关键边.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/最小体力消耗路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/最长连续序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/水位上升的泳池中游泳.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/相似字符串组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/移除最多的同行或同列石头.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/账户合并.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/DisjointSetUnion/连接所有点的最小费用.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/三个数的最大乘积.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/从相邻元素对还原数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/你能在你最喜欢的那天吃到你最喜欢的糖果吗.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/公平的糖果棒交换.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/可以形成最大正方形的矩形数目.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/可被5整除的二进制前缀.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/子数组最大平均数I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/寻找数组的中心索引.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/尽可能使字符串相等.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/找出第K大的异或坐标值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/数组形式的整数加法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/数组拆分I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/替换后的最长重复字符.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/替换隐藏数字得到的最晚时间.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/满足三条件之一需改变的最少字符数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/等价多米诺骨牌对的数量.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/缀点成线.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/重塑矩阵.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/重新排列后的最大子矩阵.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/array/非递减数列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/binarySearch/将数组分成三个子数组的方案数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/bitOperation/由斜杠划分区域.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/dp/零钱兑换II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/greedyAlgorithm/卡车上的最大单元数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/list/从尾到头打印链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/list/从链表中删去总和值为零的连续节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/list/分隔链表_.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/list/删除中间节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/list/合并两个链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/list/设计前中后队列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/list/链表中倒数第k个节点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/list/链表组件.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/map/同积元组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/math/把数组排成最小的数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/math/盒子中小球的最大数量.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/queue/数据流中的中位数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/sort/大餐计数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/sort/项目管理.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/tree/二叉树中的列表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/tree/特定深度节点链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/unknow/可获得的最大点数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/window/K个不同整数的子数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/window/K连续位的最小翻转次数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/window/字符串的排列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/window/数据流中的第K大元素.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/window/最大连续1的个数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/window/最大连续1的个数III.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/window/滑动窗口中位数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/托普利茨矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/移动所有球到每个盒子所需的最小操作数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/翻转图像.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/转置矩阵.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/bitOperation/猜字谜.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/dp/执行乘法运算的最大分数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/string/交替合并字符串.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/dp/最长湍流子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/dp/最长湍流子数组.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/list/回文链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/list/回文链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/com/company/array/绝对差不超过限制的最长连续子数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/array/绝对差不超过限制的最长连续子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/window/绝对差不超过限制的最长连续子数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/window/最大连续1的个数III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/window/最大连续1的个数III.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,13 +75,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="leetcode.id" />
   </component>
-  <component name="RunManager" selected="Application.最大连续1的个数III">
-    <configuration name="可获得的最大点数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.unknow.可获得的最大点数" />
+  <component name="RunManager" selected="Application.执行乘法运算的最大分数">
+    <configuration name="移动所有球到每个盒子所需的最小操作数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.移动所有球到每个盒子所需的最小操作数" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.unknow.*" />
+          <option name="PATTERN" value="com.company.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="K个不同整数的子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.window.K个不同整数的子数组" />
+    <configuration name="执行乘法运算的最大分数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.dp.执行乘法运算的最大分数" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.window.*" />
+          <option name="PATTERN" value="com.company.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -830,19 +779,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.可获得的最大点数" />
-      <item itemvalue="Application.K个不同整数的子数组" />
       <item itemvalue="Application.字符串的排列" />
       <item itemvalue="Application.数据流中的第K大元素" />
       <item itemvalue="Application.最大连续1的个数III" />
+      <item itemvalue="Application.移动所有球到每个盒子所需的最小操作数" />
+      <item itemvalue="Application.执行乘法运算的最大分数" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.执行乘法运算的最大分数" />
+        <item itemvalue="Application.移动所有球到每个盒子所需的最小操作数" />
         <item itemvalue="Application.最大连续1的个数III" />
         <item itemvalue="Application.数据流中的第K大元素" />
         <item itemvalue="Application.字符串的排列" />
-        <item itemvalue="Application.K个不同整数的子数组" />
-        <item itemvalue="Application.可获得的最大点数" />
       </list>
     </recent_temporary>
   </component>
@@ -909,7 +858,7 @@
       <workItem from="1610899464633" duration="5143000" />
       <workItem from="1610985919623" duration="9991000" />
       <workItem from="1611418406129" duration="103096000" />
-      <workItem from="1612894707060" duration="11878000" />
+      <workItem from="1612894707060" duration="33165000" />
     </task>
     <task id="LOCAL-00001" summary="2020 05.03 23:00">
       <created>1588524188613</created>
@@ -958,53 +907,53 @@
     </state>
     <state x="2627" y="164" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1609049607685" />
     <state x="605" y="136" key="#com.intellij.ide.util.MemberChooser/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1606552002824" />
-    <state width="1877" height="211" key="GridCell.Tab.0.bottom" timestamp="1613665045067">
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom" timestamp="1613905007389">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="211" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613665045067" />
-    <state width="1431" height="175" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1877" height="270" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613905007389" />
+    <state width="1431" height="174" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1613880288077" />
     <state width="1431" height="211" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1612977996327" />
-    <state width="1877" height="211" key="GridCell.Tab.0.center" timestamp="1613665045067">
+    <state width="1877" height="270" key="GridCell.Tab.0.center" timestamp="1613905007388">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="211" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613665045067" />
-    <state width="1431" height="175" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1877" height="270" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613905007388" />
+    <state width="1431" height="174" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1613880288076" />
     <state width="1431" height="211" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1612977996327" />
-    <state width="1877" height="211" key="GridCell.Tab.0.left" timestamp="1613665045067">
+    <state width="1877" height="270" key="GridCell.Tab.0.left" timestamp="1613905007388">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="211" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613665045067" />
-    <state width="1431" height="175" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029413" />
+    <state width="1877" height="270" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613905007388" />
+    <state width="1431" height="174" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1613880288075" />
     <state width="1431" height="211" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1612977996326" />
-    <state width="1877" height="211" key="GridCell.Tab.0.right" timestamp="1613665045067">
+    <state width="1877" height="270" key="GridCell.Tab.0.right" timestamp="1613905007389">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="211" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613665045067" />
-    <state width="1431" height="175" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1877" height="270" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613905007389" />
+    <state width="1431" height="174" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1613880288076" />
     <state width="1431" height="211" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1612977996327" />
-    <state width="1877" height="226" key="GridCell.Tab.1.bottom" timestamp="1613664923861">
+    <state width="1877" height="397" key="GridCell.Tab.1.bottom" timestamp="1613904376934">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="226" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613664923861" />
-    <state width="1431" height="175" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1877" height="397" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613904376934" />
+    <state width="1431" height="174" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1613880288439" />
     <state width="1431" height="175" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1612895728420" />
-    <state width="1877" height="226" key="GridCell.Tab.1.center" timestamp="1613664923860">
+    <state width="1877" height="397" key="GridCell.Tab.1.center" timestamp="1613904376933">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="226" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613664923860" />
-    <state width="1431" height="175" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1877" height="397" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613904376933" />
+    <state width="1431" height="174" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1613880288438" />
     <state width="1431" height="175" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1612895728420" />
-    <state width="1877" height="226" key="GridCell.Tab.1.left" timestamp="1613664923860">
+    <state width="1877" height="397" key="GridCell.Tab.1.left" timestamp="1613904376933">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="226" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613664923860" />
-    <state width="1431" height="175" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1877" height="397" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613904376933" />
+    <state width="1431" height="174" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1613880288438" />
     <state width="1431" height="175" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1612895728420" />
-    <state width="1877" height="226" key="GridCell.Tab.1.right" timestamp="1613664923861">
+    <state width="1877" height="397" key="GridCell.Tab.1.right" timestamp="1613904376933">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="226" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613664923861" />
-    <state width="1431" height="175" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612806029414" />
+    <state width="1877" height="397" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1613904376933" />
+    <state width="1431" height="174" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1613880288439" />
     <state width="1431" height="175" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1612895728420" />
     <state x="2578" y="408" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607776360822">
       <screen x="1920" y="0" width="1920" height="1040" />
@@ -1018,11 +967,11 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2546" y="99" width="667" height="849" key="find.popup/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1606061764071" />
-    <state x="532" y="188" width="672" height="543" key="search.everywhere.popup" timestamp="1612976905122">
+    <state x="532" y="188" width="672" height="543" key="search.everywhere.popup" timestamp="1613838276824">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="2532" y="226" width="876" height="654" key="search.everywhere.popup/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1612369864441" />
-    <state x="532" y="188" width="672" height="543" key="search.everywhere.popup/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1612721079625" />
+    <state x="532" y="188" width="672" height="543" key="search.everywhere.popup/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1613838276824" />
     <state x="532" y="188" width="672" height="543" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1612976905122" />
   </component>
   <component name="XDebuggerManager">
@@ -1064,7 +1013,7 @@
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/company/array/绝对差不超过限制的最长连续子数组.java</url>
+          <url>file://$PROJECT_DIR$/src/com/company/window/绝对差不超过限制的最长连续子数组.java</url>
           <line>10</line>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
@@ -1430,8 +1379,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/company/window/最大连续1的个数III.java</url>
-          <line>13</line>
+          <line>16</line>
           <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/array/移动所有球到每个盒子所需的最小操作数.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="362" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/dp/执行乘法运算的最大分数.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="363" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
