@@ -17,8 +17,9 @@ public class 买卖股票的最佳时机IV {
         System.out.println(s.maxProfit(2, new int[]{2,4,1}));
     }
     public int maxProfit(int k, int[] prices) {
-        if(prices.length==0||k==0) return 0;
-        if(k/2>prices.length) greet(prices);
+        if(prices.length<=1||k==0) return 0;
+        //if(k/2>prices.length) greet(prices);
+        k = Math.min(prices.length / 2, k);
         int[][][] dp = new int[k][prices.length][2];
         for(int i=0;i<dp.length;i++) {
             for(int j=0;j<dp[i].length;j++) {
