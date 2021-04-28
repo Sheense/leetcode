@@ -13,6 +13,18 @@ public class ArrayUtils {
         }
     }
 
+    public static void print3(int[][][] array) {
+        for(int z =0;z<array.length;z++) {
+            for(int i=0;i<array[z].length;i++) {
+                for(int j=0;j<array[z][i].length;j++) {
+                    printObject(array[z][i][j]);
+                }
+                System.out.println();
+            }
+            System.out.println("=================");
+        }
+    }
+
     public static void print(double[] array) {
         for(int i=0;i<array.length;i++) {
             System.out.print(array[i] + " ");
@@ -49,7 +61,7 @@ public class ArrayUtils {
     }
     public static void print2(int[][] array) {
         for(int i=0;i<array.length;i++) {
-            for(int j=0;j<array[0].length;j++) {
+            for(int j=0;j<array[i].length;j++) {
                 printObject(array[i][j]);
             }
             System.out.println();

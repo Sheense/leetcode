@@ -15,26 +15,23 @@ public class 子集II {
         List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(nums);
         res.add(new ArrayList<>());
-        recall(res, nums, 0);
-        return res;
-    }
-
-    public void recall(List<List<Integer>> res, int[] nums, int index) {
-        if(index>=nums.length) return ;
-        int value = nums[index];
-        List<Integer> list = new ArrayList<>();
-        int size = res.size();
-        while(index<nums.length&&value==nums[index]) {
-            list.add(nums[index]);
-            for(int z=0;z<size;z++) {
-                List<Integer> item = res.get(z);
-                List<Integer> l = new ArrayList<>(item);
-                l.addAll(list);
-                res.add(l);
+        int index = 0;
+        while (index < nums.length) {
+            int value = nums[index];
+            List<Integer> list = new ArrayList<>();
+            int size = res.size();
+            while(index<nums.length&&value==nums[index]) {
+                list.add(nums[index]);
+                for(int z=0;z<size;z++) {
+                    List<Integer> item = res.get(z);
+                    List<Integer> l = new ArrayList<>(item);
+                    l.addAll(list);
+                    res.add(l);
+                }
+                index++;
             }
-            index++;
         }
-        recall(res, nums, index);
+        return res;
     }
 
 }

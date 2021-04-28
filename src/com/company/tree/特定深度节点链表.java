@@ -35,6 +35,10 @@ public class 特定深度节点链表 {
             }
             res.add(head);
         }
-        return (ListNode[]) res.toArray();
+        ListNode[] ans = new ListNode[res.size()];
+        for(int i=0;i<ans.length;i++) {
+            ans[i] = res.get(i);
+        }
+        return ans;
     }
 }

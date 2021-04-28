@@ -3,9 +3,9 @@ package com.company.dp;
 public class 零钱兑换 {
     public static void main(String[] args) {
         零钱兑换 s = new 零钱兑换();
-        System.out.println(s.coinChange(new int[]{2},3));
+        System.out.println(s.coinChange(new int[]{1,2,5},11));
     }
-    public int coinChange(int[] coins, int amount) {
+    /*public int coinChange(int[] coins, int amount) {
         int dp[] = new int[amount+1];
         for(int i=1;i<dp.length;i++) dp[i] = Integer.MAX_VALUE;
         for(int i=1;i<=amount;i++) {
@@ -23,5 +23,22 @@ public class 零钱兑换 {
         }
         int res = dp[amount]==Integer.MAX_VALUE ? -1 : dp[amount];
         return res;
+    }*/
+
+    public int coinChange(int[] coins, int amount) {
+        int[] dp = new int[amount+1];
+        for(int i=1;i<=amount;i++) {
+            dp[i] = Integer.MAX_VALUE;
+            int min = Integer.MAX_VALUE;
+            for(int j=0;j<coins.length;j++) {
+                if(i-coins[j]>=0 ) {
+                    min = Math.min(min, dp[i - coins[j]]);
+                }
+            }
+            if(min != Integer.MAX_VALUE) {
+                dp[i] = min + 1;
+            }
+        }
+        return dp[amount] == Integer.MAX_VALUE ? -1 : dp[amount];
     }
 }

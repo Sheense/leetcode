@@ -7,7 +7,7 @@ public class 搜索旋转排序数组II {
         System.out.println(s.search(new int[]{4,5,6,7,0,1,2}, 1));
     }
 
-    public boolean search(int[] nums, int target) {
+    /*public boolean search(int[] nums, int target) {
         return search(0, nums.length-1, nums, target);
     }
 
@@ -30,5 +30,29 @@ public class 搜索旋转排序数组II {
         } else {
             return search(left, end, nums, target);
         }
+    }*/
+    public boolean search(int[] nums, int target) {
+        int end = 0;
+        while (end+1<nums.length&&nums[end]<=nums[end+1]) {
+            end++;
+        }
+        if(nums[0] == target || nums[end] == target) return true;
+        if(nums[0]<=target&&nums[end]>=target) {
+            return search(0, end, nums, target);
+        }
+        return search(end+1, nums.length - 1, nums, target);
+    }
+
+    public boolean search(int start, int end, int[] nums, int target) {
+        while (start <= end) {
+            int mid = (start + end) / 2;
+            if(nums[mid] == target) return true;
+            else if(nums[mid] > target) {
+                end = mid - 1;
+            } else {
+                start = mid + 1;
+            }
+        }
+        return false;
     }
 }
