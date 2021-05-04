@@ -11,7 +11,6 @@ public class 全排列II {
     }
 
     public List<List<Integer>> permuteUnique(int[] nums) {
-        Set<Integer> set = new HashSet<>();
         Queue<List<Integer>> queue = new LinkedList();
         for(int i=0;i<nums.length;i++) {
             while(queue.peek()==null || queue.peek().size()==i) {
@@ -22,6 +21,7 @@ public class 全排列II {
                     queue.offer(item);
                 }
             }
+            //去重操作，other存放无重复数据
             List<List<Integer>> other = new ArrayList<>();
             for(List<Integer> list : queue) {
                 boolean flag = false;
