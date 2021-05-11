@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffc8c3a8-7a8a-4f89-a61e-7be6108723aa" name="Default Changelist" comment="2020 07.29 23:00">
-      <change afterPath="$PROJECT_DIR$/src/com/company/dp/二出现的次数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/dp/马戏团人塔.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/math/最佳直线.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/string/最长单词.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/window/最短超串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/人口最多的年份.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/array/子数组最小乘积的最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/bitOperation/解码异或后的排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/hash/串联所有单词的子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/math/平分正方形.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/recall/完成所有工作的最短时间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/sort/下标对中的最大距离.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/tree/叶子相似的树.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/com/company/recall/组合.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/com/company/recall/组合.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/recall/组合.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/recall/组合.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +76,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.马戏团人塔">
-    <configuration name="最长单词" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.string.最长单词" />
+  <component name="RunManager" selected="Application.串联所有单词的子串">
+    <configuration name="完成所有工作的最短时间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.recall.完成所有工作的最短时间" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.string.*" />
+          <option name="PATTERN" value="com.company.recall.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,38 +90,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="最佳直线" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.math.最佳直线" />
+    <configuration name="串联所有单词的子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.hash.串联所有单词的子串" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="子数组最小乘积的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.array.子数组最小乘积的最大值" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="平分正方形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.math.平分正方形" />
       <module name="project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二出现的次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.dp.二出现的次数" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最短超串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.window.最短超串" />
-      <module name="project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.window.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -983,19 +988,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.最短超串" />
-      <item itemvalue="Application.最长单词" />
-      <item itemvalue="Application.二出现的次数" />
-      <item itemvalue="Application.最佳直线" />
       <item itemvalue="Application.马戏团人塔" />
+      <item itemvalue="Application.平分正方形" />
+      <item itemvalue="Application.完成所有工作的最短时间" />
+      <item itemvalue="Application.子数组最小乘积的最大值" />
+      <item itemvalue="Application.串联所有单词的子串" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.串联所有单词的子串" />
+        <item itemvalue="Application.子数组最小乘积的最大值" />
+        <item itemvalue="Application.完成所有工作的最短时间" />
+        <item itemvalue="Application.平分正方形" />
         <item itemvalue="Application.马戏团人塔" />
-        <item itemvalue="Application.最佳直线" />
-        <item itemvalue="Application.二出现的次数" />
-        <item itemvalue="Application.最长单词" />
-        <item itemvalue="Application.最短超串" />
       </list>
     </recent_temporary>
   </component>
@@ -1069,7 +1074,7 @@
       <workItem from="1617553452548" duration="16268000" />
       <workItem from="1617820484668" duration="134936000" />
       <workItem from="1618941531895" duration="60485000" />
-      <workItem from="1619885773613" duration="35573000" />
+      <workItem from="1619885773613" duration="72204000" />
     </task>
     <task id="LOCAL-00001" summary="2020 05.03 23:00">
       <created>1588524188613</created>
@@ -1121,52 +1126,52 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616076491587" />
-    <state width="1877" height="201" key="GridCell.Tab.0.bottom" timestamp="1620237279126">
+    <state width="1877" height="444" key="GridCell.Tab.0.bottom" timestamp="1620581332329">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620237279126" />
-    <state width="1431" height="201" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620201337904" />
+    <state width="1877" height="444" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620581332329" />
+    <state width="1431" height="201" key="GridCell.Tab.0.bottom/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620404976808" />
     <state width="1431" height="11" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1618304924796" />
-    <state width="1877" height="201" key="GridCell.Tab.0.center" timestamp="1620237279126">
+    <state width="1877" height="444" key="GridCell.Tab.0.center" timestamp="1620581332329">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620237279126" />
-    <state width="1431" height="201" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620201337904" />
+    <state width="1877" height="444" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620581332329" />
+    <state width="1431" height="201" key="GridCell.Tab.0.center/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620404976808" />
     <state width="1431" height="11" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1618304924796" />
-    <state width="1877" height="201" key="GridCell.Tab.0.left" timestamp="1620237279126">
+    <state width="1877" height="444" key="GridCell.Tab.0.left" timestamp="1620581332329">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620237279126" />
-    <state width="1431" height="201" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620201337904" />
+    <state width="1877" height="444" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620581332329" />
+    <state width="1431" height="201" key="GridCell.Tab.0.left/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620404976808" />
     <state width="1431" height="11" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1618304924796" />
-    <state width="1877" height="201" key="GridCell.Tab.0.right" timestamp="1620237279126">
+    <state width="1877" height="444" key="GridCell.Tab.0.right" timestamp="1620581332329">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620237279126" />
-    <state width="1431" height="201" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620201337904" />
+    <state width="1877" height="444" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620581332329" />
+    <state width="1431" height="201" key="GridCell.Tab.0.right/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620404976808" />
     <state width="1431" height="11" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1618304924796" />
-    <state width="1877" height="201" key="GridCell.Tab.1.bottom" timestamp="1620213476901">
+    <state width="1877" height="444" key="GridCell.Tab.1.bottom" timestamp="1620581332329">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620213476901" />
+    <state width="1877" height="444" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620581332329" />
     <state width="1431" height="352" key="GridCell.Tab.1.bottom/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620201080252" />
     <state width="1431" height="226" key="GridCell.Tab.1.bottom/62.0.1474.864@62.0.1474.864" timestamp="1618299551308" />
-    <state width="1877" height="201" key="GridCell.Tab.1.center" timestamp="1620213476901">
+    <state width="1877" height="444" key="GridCell.Tab.1.center" timestamp="1620581332329">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620213476901" />
+    <state width="1877" height="444" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620581332329" />
     <state width="1431" height="352" key="GridCell.Tab.1.center/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620201080252" />
     <state width="1431" height="226" key="GridCell.Tab.1.center/62.0.1474.864@62.0.1474.864" timestamp="1618299551308" />
-    <state width="1877" height="201" key="GridCell.Tab.1.left" timestamp="1620213476901">
+    <state width="1877" height="444" key="GridCell.Tab.1.left" timestamp="1620581332329">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620213476901" />
+    <state width="1877" height="444" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620581332329" />
     <state width="1431" height="352" key="GridCell.Tab.1.left/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620201080252" />
     <state width="1431" height="226" key="GridCell.Tab.1.left/62.0.1474.864@62.0.1474.864" timestamp="1618299551308" />
-    <state width="1877" height="201" key="GridCell.Tab.1.right" timestamp="1620213476901">
+    <state width="1877" height="444" key="GridCell.Tab.1.right" timestamp="1620581332329">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="201" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620213476901" />
+    <state width="1877" height="444" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620581332329" />
     <state width="1431" height="352" key="GridCell.Tab.1.right/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620201080252" />
     <state width="1431" height="226" key="GridCell.Tab.1.right/62.0.1474.864@62.0.1474.864" timestamp="1618299551308" />
     <state x="301" y="75" key="SettingsEditor" timestamp="1620198729693">
@@ -1181,10 +1186,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2476" y="204" width="807" height="632" key="find.popup/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1618543312684" />
-    <state x="532" y="188" width="672" height="543" key="search.everywhere.popup" timestamp="1620198732067">
-      <screen x="62" y="0" width="1474" height="864" />
+    <state x="2532" y="226" width="876" height="654" key="search.everywhere.popup" timestamp="1620580976502">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2532" y="226" width="876" height="654" key="search.everywhere.popup/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620135749567" />
+    <state x="2532" y="226" width="876" height="654" key="search.everywhere.popup/62.0.1474.864/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620580976502" />
     <state x="532" y="188" width="672" height="543" key="search.everywhere.popup/62.0.1474.864/1920.0.1920.1040@62.0.1474.864" timestamp="1620198732067" />
     <state x="532" y="188" width="672" height="543" key="search.everywhere.popup/62.0.1474.864@62.0.1474.864" timestamp="1612976905122" />
   </component>
@@ -1880,6 +1885,26 @@
           <url>file://$PROJECT_DIR$/src/com/company/math/最佳直线.java</url>
           <line>12</line>
           <option name="timeStamp" value="502" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/recall/完成所有工作的最短时间.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="506" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/array/子数组最小乘积的最大值.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="507" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/array/子数组最小乘积的最大值.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="508" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/company/hash/串联所有单词的子串.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="509" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
