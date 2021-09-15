@@ -25,3 +25,15 @@ for(int i=n;i>=1;i--) {
    }
 }
 
+
+压缩集合的所有子集情况
+for(int i = 0; i < N; i++) {
+   //遍历子集
+   for(int j = i; j > 0; j = (j-1) & i) {
+      if(sum[j] <= sessionTime) {
+      dp[i] = Math.min(dp[i], dp[i ^ j] + 1);
+   }
+}
+
+
+差分数组中arr[i] 表示原数组的第i个元素 - 第i-1个元素的值，对差分数组求前缀和能得到原数组
