@@ -6,10 +6,51 @@ public class 消失的两个数字 {
 
     public static void main(String[] args) {
         消失的两个数字 s = new 消失的两个数字();
-        ArrayUtils.print(s.missingTwo(new int[]{2,3}));
+        ArrayUtils.print(s.missingTwo(new int[]{2}));
     }
 
     public int[] missingTwo(int[] nums) {
+        int all = 0;
+        for(int i = 0; i < nums.length; i++) {
+            all ^= nums[i];
+        }
+        for(int i = 1; i <= nums.length + 2; i++) {
+            all ^= i;
+        }
+
+        int num = all;
+        int j = 0;
+        while (j <= 30) {
+            int f = num & (1 << j);
+            if(f != 0) {
+                break;
+            }
+            j++;
+        }
+
+        int temp = 1 << j;
+        int a = 0;
+        int b = 0;
+        for(int i = 0; i < nums.length; i++) {
+            if((temp & nums[i]) == 0) {
+                a ^= nums[i];
+            }else {
+                b ^= nums[i];
+            }
+        }
+
+        for(int i = 1; i <= nums.length + 2; i++) {
+            if((temp & i) == 0) {
+                a ^= i;
+            }else {
+                b ^= i;
+            }
+        }
+
+        return new int[]{a,b};
+    }
+
+    public int[] missingTwo1(int[] nums) {
         int [] res = new int[2];
         int a = 0;
         int b = 0;
