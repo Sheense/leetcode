@@ -1,34 +1,40 @@
 package sheen.leetcode.window;
 
+import java.util.TreeMap;
+
 public class 删除最短的子数组使剩余数组有序 {
     public static void main(String[] args) {
         删除最短的子数组使剩余数组有序 s = new 删除最短的子数组使剩余数组有序();
-        System.out.println(s.findLengthOfShortestSubarray(new int[]{1}));
+        System.out.println(s.findLengthOfShortestSubarray(new int[]{1,2,3,3,10,1,3,3,5}));
     }
-    public int findLengthOfShortestSubarray(int[] arr) {
-        int start = 0;
-        while(start+1<arr.length&&arr[start]<=arr[start+1]) {
-            start++;
-        }
-        if(start==arr.length-1) return 0;
-        int end = arr.length-1;
-        while(end-1>=0&&arr[end]>=arr[end-1]) {
-            end--;
-        }
-        if(arr[end]>=arr[start]) {
-            return end - start -1;
-        }
-        int index = start;
-        while(index>=0&&arr[index]>arr[end]){
-            index--;
-        }
-        int min1 = end-index-1;
 
-        index = end;
-        while(index<arr.length&&arr[start]>arr[index]) {
+    public int findLengthOfShortestSubarray(int[] arr) {
+        int left = 0;
+        int index = 0;
+        while (index < arr.length && arr[index] >= arr[left]) {
+            left = index;
             index++;
         }
-        int min2 = index-start-1;
-        return Math.min(min1, min2);
+        if(left == arr.length - 1) {
+            return 0;
+        }
+
+        TreeMap<Integer, Integer> map = new TreeMap<>();
+        int right = arr.length - 1;
+        index = arr.length - 1;
+        while (index >= 0 && arr[index] <= arr[right]) {
+            map.put(arr[index], index);
+            right = index;
+            index--;
+        }
+        int res = Math.min(right, arr.length - 1 - left);
+        for(int i = left; i >= 0; i--) {
+            if(map.ceilingKey(arr[i]) != null) {
+                int ceilKey = map.ceilingKey(arr[i]);
+                res = Math.min(res, map.get(ceilKey) - i - 1);
+            }
+        }
+        return res;
     }
+
 }
