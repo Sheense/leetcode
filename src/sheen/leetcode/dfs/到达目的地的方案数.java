@@ -11,7 +11,9 @@ import java.util.*;
 public class 到达目的地的方案数 {
     public static void main(String[] args) {
         到达目的地的方案数 s = new 到达目的地的方案数();
-        System.out.println(s.countPaths(7, new int[][]{{0,6,7},{0,1,2},{1,2,3},{1,3,3},{6,3,3},{3,5,1},{6,5,1},{2,5,1},{0,4,5},{4,6,2}}));
+        System.out.println(s.countPaths(6, new int[][]{{3,0,4},{0,2,3},{1,2,2},{4,1,3},{2,5,5},{2,3,1},{0,4,1},{2,4,6},{4,3,1}}
+
+));
     }
 
     public int countPaths(int n, int[][] roads) {
@@ -34,7 +36,7 @@ public class 到达目的地的方案数 {
             list.get(y).add(new long[]{time, x});
         }
 
-        PriorityQueue<long[]> queue = new PriorityQueue<>((a, b) -> a[1] - b[1] >= 0 ? 1 : -1);
+        PriorityQueue<long[]> queue = new PriorityQueue<>((a, b) -> a[0] - b[0] >= 0 ? 1 : -1);
         queue.add(new long[]{0L, 0L});
         while (!queue.isEmpty()) {
             long[] p = queue.poll();
@@ -47,11 +49,11 @@ public class 到达目的地的方案数 {
             for(long[] next : list.get(point)) {
                 int nextPoint = (int)next[1];
                 long nextTime = next[0];
-                if(nextTime + dp[point][0] < dp[nextPoint][0]) {
-                    dp[nextPoint][0] = nextTime + dp[point][0];
+                if(nextTime + time < dp[nextPoint][0]) {
+                    dp[nextPoint][0] = nextTime + time;
                     dp[nextPoint][1] = dp[point][1];
-                    queue.add(new long[]{nextTime + dp[point][0], nextPoint});
-                }else if(nextTime + dp[point][0] == dp[nextPoint][0]) {
+                    queue.add(new long[]{nextTime + time, nextPoint});
+                }else if(nextTime + time == dp[nextPoint][0]) {
                     dp[nextPoint][1] += dp[point][1];
                     dp[nextPoint][1] %= MOD;
                 }
